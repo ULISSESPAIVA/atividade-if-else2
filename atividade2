@@ -1,0 +1,8 @@
+var valor_um = prompt ("DIGITE VALOR 1")
+var valor_dois = prompt ("DIGITE VAOR 2")
+
+if (valor_um > valor_dois){
+  alert ("VALOR 1 MAIOR!")
+} else {
+  alert ("VALOR 2 MAIOR VALOR!")
+     }
